@@ -1,0 +1,116 @@
+<svg width="100%" height="100%" viewBox="0 0 850 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d" />
+      <stop offset="50%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradients -->
+    <linearGradient id="accent-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#4facfe" />
+    </linearGradient>
+
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="wave-grad-1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.05" />
+    </linearGradient>
+
+    <linearGradient id="wave-grad-2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.05" />
+    </linearGradient>
+
+    <!-- Border Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 900;
+      font-size: 40px;
+      letter-spacing: 3px;
+      fill: url(#text-grad);
+    }
+    .sub-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 600;
+      font-size: 14px;
+      letter-spacing: 2px;
+      fill: #94a3b8;
+      text-transform: uppercase;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', monospace;
+      font-weight: 700;
+      font-size: 11px;
+      fill: #38bdf8;
+      letter-spacing: 1px;
+    }
+    .tag-border {
+      stroke: #38bdf8;
+      stroke-opacity: 0.3;
+      rx: 12px;
+    }
+  </style>
+
+  <!-- Outer Rounded Container -->
+  <rect x="2" y="2" width="846" height="206" rx="16" fill="url(#bg-grad)" stroke="#1e293b" stroke-width="2"/>
+
+  <!-- Glowing Mesh Waves -->
+  <path d="M2 130 C 180 180, 360 80, 520 140 C 680 190, 780 120, 848 150 L 848 208 L 2 208 Z" fill="url(#wave-grad-1)"/>
+  <path d="M2 160 C 220 110, 420 190, 600 130 C 720 90, 800 150, 848 135 L 848 208 L 2 208 Z" fill="url(#wave-grad-2)"/>
+
+  <!-- Top Accent Neon Bar -->
+  <rect x="2" y="2" width="846" height="4" rx="2" fill="url(#accent-cyan)"/>
+
+  <!-- Decorative Tech Sparkles / Stars -->
+  <circle cx="90" cy="50" r="2" fill="#38bdf8" opacity="0.6"/>
+  <circle cx="760" cy="60" r="2.5" fill="#c084fc" opacity="0.7"/>
+  <circle cx="790" cy="140" r="1.5" fill="#38bdf8" opacity="0.4"/>
+  <circle cx="60" cy="150" r="2" fill="#818cf8" opacity="0.5"/>
+
+  <!-- Floating Tech Badges (Top Center) -->
+  <g transform="translate(290, 32)">
+    <rect x="0" y="0" width="270" height="24" rx="12" fill="#1e293b" fill-opacity="0.6" stroke="#38bdf8" stroke-opacity="0.3"/>
+    <circle cx="14" cy="12" r="4" fill="#00ff88"/>
+    <text x="26" y="16" class="badge-text">✦ FULL-STACK CRAFTSMAN ✦</text>
+  </g>
+
+  <!-- Main Title -->
+  <text x="425" y="105" text-anchor="middle" class="title-text">KIM HENG ✦ SE7EN</text>
+
+  <!-- Subtitle -->
+  <text x="425" y="136" text-anchor="middle" class="sub-text">LARAVEL 12 • VUE.JS • POSTGRESQL • BAKONG KHQR FINTECH</text>
+
+  <!-- Bottom Accent Highlights -->
+  <g transform="translate(195, 160)">
+    <!-- Pill 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="135" height="26" rx="13" fill="#0f172a" stroke="#38bdf8" stroke-opacity="0.4"/>
+      <text x="67" y="17" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#38bdf8">⚡ TOUCH POS</text>
+    </g>
+    <!-- Pill 2 -->
+    <g transform="translate(150, 0)">
+      <rect width="160" height="26" rx="13" fill="#0f172a" stroke="#818cf8" stroke-opacity="0.4"/>
+      <text x="80" y="17" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#818cf8">📦 INVENTORY BOM</text>
+    </g>
+    <!-- Pill 3 -->
+    <g transform="translate(325, 0)">
+      <rect width="135" height="26" rx="13" fill="#0f172a" stroke="#c084fc" stroke-opacity="0.4"/>
+      <text x="67" y="17" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#c084fc">💳 BAKONG KHQR</text>
+    </g>
+  </g>
+</svg>
