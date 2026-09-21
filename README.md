@@ -1,29 +1,33 @@
 <div align="center">
 
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=210&section=header&text=KIM%20HENG%20✦%20SE7EN&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Craftsman%20%7C%20Laravel%20%26%20Fintech%20Engineer&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header" />
-
-  <!-- Animated Typing Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=100&lines=👋+Greetings!+I%27m+Kim+Heng+(SE7EN)+%E2%9C%A8;💻+Full-Stack+Web+Developer+%26+Software+Craftsman+%E2%98%95;🚀+Architecting+Modern+POS%2C+Inventory+BOM+%26+Fintech+Apps+%F0%9F%94%A5;💳+Specializing+in+Bakong+KHQR+Payment+Integrations+%F0%9F%87%B0%F0%9F%87%AD;⚡+Turning+coffee+into+clean%2C+scalable%2C+maintainable+code+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+  <!-- Dynamic Header Banner (100% ASCII-Safe & High Compatibility) -->
+  <a href="https://github.com/SE7EN-01">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=200&section=header&text=KIM%20HENG%20%7C%20SE7EN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Craftsman%20%E2%80%A2%20Laravel%20%26%20Fintech%20Engineer&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
   </a>
+
+  <!-- Animated Typing Banner (100% URL-Safe Delimiters) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Full-Stack+Web+Developer+%26+System+Craftsman;Architecting+Modern+POS+%26+Inventory+Systems;Specializing+in+Laravel+12+%26+Bakong+KHQR;Turning+coffee+into+clean%2C+scalable+solutions" alt="Typing Banner" />
+  </a>
+
+  <br/>
 
   <p align="center">
     <samp>
-      ⚡ <b>"Code is like humor. When you have to explain it, it’s bad."</b> — Cory House ⚡
+      ⚡ <b>"Code is like humor. When you have to explain it, it's bad."</b> — Cory House ⚡
       <br/>
-      📍 <b>Phnom Penh, Cambodia 🇰🇭</b> • 🎓 <b>RPITSB Graduate</b> • 💼 <b>Open for Projects & Collaborations</b>
+      📍 <b>Phnom Penh, Cambodia 🇰🇭</b> &nbsp;•&nbsp; 🎓 <b>RPITSB Graduate</b> &nbsp;•&nbsp; 💼 <b>Available for High-Impact Projects</b>
     </samp>
   </p>
 
-  <!-- Dynamic Profile Views Counter & Status Badges -->
+  <!-- Live Counter & Activity Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=SE7EN-01&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-00ff88?style=for-the-badge&logo=codeforces&logoColor=black" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Laravel%2012%20%7C%20Vue%20%7C%20Fintech-blueviolet?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDER-00ff88?style=for-the-badge&logo=codeforces&logoColor=black" alt="Status" />
+    <img src="https://img.shields.io/badge/FOCUS-LARAVEL%2012%20%7C%20VUE%20%7C%20FINTECH-8A2BE2?style=for-the-badge" alt="Focus" />
   </p>
 
-  <!-- Connect & Social Network Badges -->
+  <!-- Social & Direct Contact Channels -->
   <p align="center">
     <a href="https://t.me/Kim_Heng01" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -47,51 +51,42 @@
 ---
 
 ### 📌 Quick Navigation
-[👨‍💻 About Me](#-about-me) • [🏆 Achievements & Trophies](#-achievements--trophies) • [🛠️ Skills & Tech Stack](#-arsenal--tech-stack) • [🚀 Featured Projects](#-featured-projects-showcase) • [📐 Architecture & Philosophy](#-engineering-philosophy--architecture) • [📊 Analytics & Metrics](#-github-analytics--metrics) • [📫 Connect](#-lets-collaborate--connect)
+[👨‍💻 About Me](#-about-me) • [🏆 Achievements & Trophies](#-achievements--trophies) • [🛠️ Skills & Tech Stack](#-arsenal--tech-stack) • [🚀 Featured Projects](#-featured-projects-showcase) • [📐 Architecture & Standards](#-engineering-philosophy--architecture) • [📊 Analytics & Metrics](#-github-analytics--metrics) • [🎧 Coding Zone](#-the-coding-zone--setup) • [📫 Connect](#-lets-collaborate--connect)
 
 ---
 
 ### 👨‍💻 About Me
 
-```typescript
-interface DeveloperProfile {
-  name: string;
-  alias: string;
-  title: string;
-  location: string;
-  education: string;
-  primaryStack: string[];
-  domainsOfExcellence: string[];
-  currentFocus: string;
-  corePrinciples: string[];
-  hobbies: string[];
-}
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👋 Hello, World! I'm Kim Heng (SE7EN)</h3>
+      <p>I am a passionate <b>Full-Stack Web Craftsman</b> based in <b>Phnom Penh, Cambodia 🇰🇭</b>, holding an academic background from <b>RPITSB</b> (Regional Polytechnic Institute Techo Sen Battambang).</p>
+      <p>I architect and engineer modern, business-critical web systems with an emphasis on <b>bulletproof database consistency</b>, <b>touchscreen UI ergonomics</b>, and <b>frictionless payment workflows</b>.</p>
+      <ul>
+        <li>🚀 <b>Specialty:</b> Modern Point of Sale (POS) Systems, Automated Recipe BOM Deductions, and Cambodia's National Bakong KHQR Payment Rails.</li>
+        <li>💡 <b>Engineering Philosophy:</b> Clean Architecture, zero financial errors via atomic transactions, and self-documenting code.</li>
+        <li>🌱 <b>Continuous Growth:</b> Exploring high-concurrency event-driven systems, micro-services, and Redis caching layers.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h4 align="center">⚡ Developer Snapshot</h4>
 
-const SE7EN: DeveloperProfile = {
-  name: "Kim Heng",
-  alias: "SE7EN",
-  title: "Full-Stack Web Craftsman & System Builder",
-  location: "Phnom Penh, Cambodia 🇰🇭",
-  education: "Regional Polytechnic Institute Techo Sen Battambang (RPITSB)",
-  primaryStack: [
-    "PHP 8.4", "Laravel 12.x", "PostgreSQL", 
-    "JavaScript (ES6+)", "Vue.js", "Alpine.js", "Tailwind CSS"
-  ],
-  domainsOfExcellence: [
-    "Point of Sale (POS) Systems with Touchscreen UI",
-    "Smart Inventory with Automated Bill of Materials (BOM) Deductions",
-    "Cambodian National Payment Rail Integration (Bakong KHQR)",
-    "Clean Architecture, Service Repositories & ACID Transactions"
-  ],
-  currentFocus: "Architecting high-concurrency Laravel micro-services & event-driven POS systems",
-  corePrinciples: [
-    "Write readable, self-documenting code",
-    "Atomic database consistency — zero room for financial/inventory errors",
-    "Pixel-perfect UI with slick micro-interactions"
-  ],
-  hobbies: ["Lo-Fi Beats 🎧", "Specialty Coffee ☕", "Tech Exploration 🚀", "Late-Night Debugging 🌙"]
-};
+```json
+{
+  "name": "Kim Heng",
+  "alias": "SE7EN",
+  "role": "Full-Stack Web Craftsman",
+  "location": "Phnom Penh, Cambodia",
+  "stack": ["Laravel 12", "Vue 3", "PostgreSQL"],
+  "domain": ["Fintech", "POS & Inventory BOM"],
+  "payment_rail": "Bakong Dynamic KHQR (NBC)",
+  "motto": "Atomic consistency & clean design"
+}
 ```
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -108,7 +103,7 @@ const SE7EN: DeveloperProfile = {
 ### 🛠️ Arsenal & Tech Stack
 
 <div align="center">
-  <!-- Skill Icons Grid -->
+  <!-- Interactive Skill Icons Grid -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,react,tailwind,bootstrap,html,css,postgres,mysql,sqlite,redis,python,cpp,cs,git,github,vscode,postman,docker,linux,bash&perline=12&theme=dark" alt="Arsenal Icons" />
   </a>
@@ -302,16 +297,26 @@ const SE7EN: DeveloperProfile = {
 
 ---
 
-### 🎧 The Coding Zone & Lo-Fi Vibes
+### 🎧 The Coding Zone & Setup
 
-```ini
-[Current Vibe]
-Track    = "Lofi Hip Hop Radio - Beats to Relax/Study to" ☕
-Status   = "Compiling clean code..."
-Coffee   = "Dark Roast Robusta / Espresso Double Shot" ⚡
-Editor   = "Visual Studio Code (Tokyo Night Theme)"
-Terminal = "PowerShell / Zsh with custom prompt"
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="820">
+        <p><b>🎵 CURRENTLY CODING TO & WORKSPACE VIBES</b></p>
+        <p>
+          <img src="https://img.shields.io/badge/Spotify-Lofi%20Hip%20Hop%20Radio%20--%20Beats%20to%20Relax%2FStudy-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+          <img src="https://img.shields.io/badge/Fuel-Double%20Espresso%20Shot-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Espresso" />
+          <img src="https://img.shields.io/badge/Editor-VS%20Code%20Tokyo%20Night-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+          <img src="https://img.shields.io/badge/Shell-PowerShell%207%20%7C%20Starship-4EAA25?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+        </p>
+        <p>
+          <code>▶ [■■■■■■■■■■■■■■■□□□□□] 75%</code> &nbsp;•&nbsp; <i>"Turning caffeine into clean architecture & elegant solutions"</i>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
