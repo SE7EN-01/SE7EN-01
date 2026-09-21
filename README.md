@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Dynamic Header Banner (100% ASCII-Safe & High Compatibility) -->
+  <!-- Self-Hosted Vector Header Banner (100% Reliable & Fast) -->
   <a href="https://github.com/SE7EN-01">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=200&section=header&text=KIM%20HENG%20%7C%20SE7EN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Web%20Craftsman%20%E2%80%A2%20Laravel%20%26%20Fintech%20Engineer&descFontSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+    <img src="./assets/header.svg" width="100%" alt="Kim Heng - SE7EN Header Banner" />
   </a>
 
-  <!-- Animated Typing Banner (100% URL-Safe Delimiters) -->
+  <!-- Animated Typing Banner -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Full-Stack+Web+Developer+%26+System+Craftsman;Architecting+Modern+POS+%26+Inventory+Systems;Specializing+in+Laravel+12+%26+Bakong+KHQR;Turning+coffee+into+clean%2C+scalable+solutions" alt="Typing Banner" />
   </a>
@@ -20,7 +20,7 @@
     </samp>
   </p>
 
-  <!-- Live Counter & Activity Badges -->
+  <!-- Live Profile Counter & Status Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=SE7EN-01&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/badge/STATUS-ACTIVE%20BUILDER-00ff88?style=for-the-badge&logo=codeforces&logoColor=black" alt="Status" />
@@ -51,51 +51,38 @@
 ---
 
 ### 📌 Quick Navigation
-[👨‍💻 About Me](#-about-me) • [🏆 Achievements & Trophies](#-achievements--trophies) • [🛠️ Skills & Tech Stack](#-arsenal--tech-stack) • [🚀 Featured Projects](#-featured-projects-showcase) • [📐 Architecture & Standards](#-engineering-philosophy--architecture) • [📊 Analytics & Metrics](#-github-analytics--metrics) • [🎧 Coding Zone](#-the-coding-zone--setup) • [📫 Connect](#-lets-collaborate--connect)
+[👨‍💻 About Me](#-about-me) • [🏆 Profile Summary](#-github-profile-summary) • [🛠️ Skills & Tech Stack](#-arsenal--tech-stack) • [🚀 Featured Projects](#-featured-projects-showcase) • [📐 Architecture & Standards](#-engineering-philosophy--architecture) • [📊 Analytics & Metrics](#-github-analytics--metrics) • [🎧 Coding Zone](#-the-coding-zone--setup) • [📫 Connect](#-lets-collaborate--connect)
 
 ---
 
 ### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👋 Hello, World! I'm Kim Heng (SE7EN)</h3>
-      <p>I am a passionate <b>Full-Stack Web Craftsman</b> based in <b>Phnom Penh, Cambodia 🇰🇭</b>, holding an academic background from <b>RPITSB</b> (Regional Polytechnic Institute Techo Sen Battambang).</p>
-      <p>I architect and engineer modern, business-critical web systems with an emphasis on <b>bulletproof database consistency</b>, <b>touchscreen UI ergonomics</b>, and <b>frictionless payment workflows</b>.</p>
-      <ul>
-        <li>🚀 <b>Specialty:</b> Modern Point of Sale (POS) Systems, Automated Recipe BOM Deductions, and Cambodia's National Bakong KHQR Payment Rails.</li>
-        <li>💡 <b>Engineering Philosophy:</b> Clean Architecture, zero financial errors via atomic transactions, and self-documenting code.</li>
-        <li>🌱 <b>Continuous Growth:</b> Exploring high-concurrency event-driven systems, micro-services, and Redis caching layers.</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h4 align="center">⚡ Developer Snapshot</h4>
+> 🚀 **Full-Stack Web Craftsman & System Builder** based in **Phnom Penh, Cambodia 🇰🇭**  
+> *Academic background from RPITSB (Regional Polytechnic Institute Techo Sen Battambang)*
 
 ```json
 {
   "name": "Kim Heng",
   "alias": "SE7EN",
-  "role": "Full-Stack Web Craftsman",
-  "location": "Phnom Penh, Cambodia",
-  "stack": ["Laravel 12", "Vue 3", "PostgreSQL"],
-  "domain": ["Fintech", "POS & Inventory BOM"],
-  "payment_rail": "Bakong Dynamic KHQR (NBC)",
+  "role": "Full-Stack Web Craftsman & System Builder",
+  "location": "Phnom Penh, Cambodia 🇰🇭",
+  "education": "Regional Polytechnic Institute Techo Sen Battambang (RPITSB)",
+  "primary_stack": ["PHP 8.4", "Laravel 12.x", "Vue.js", "Alpine.js", "PostgreSQL"],
+  "core_domains": ["Touch POS Register", "Recipe Inventory BOM Engine", "Bakong KHQR (NBC)"],
   "motto": "Atomic consistency & clean design"
 }
 ```
-    </td>
-  </tr>
-</table>
+
+- 🚀 **Specialty:** Modern Point of Sale (POS) Systems, Automated Recipe Bill of Materials (BOM) Deductions, and Cambodia's National Bakong KHQR Payment Rails.
+- 💡 **Engineering Philosophy:** Clean Architecture, zero financial errors via ACID atomic transactions, and self-documenting code.
+- 🌱 **Continuous Growth:** Exploring high-concurrency event-driven systems, micro-services, and Redis caching layers.
 
 ---
 
-### 🏆 Achievements & Trophies
+### 🏆 GitHub Profile Summary
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SE7EN-01&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&margin-h=4&row=1&column=7" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SE7EN-01&theme=tokyonight" alt="Profile Details" />
 </div>
 
 ---
@@ -274,8 +261,8 @@
 ### 📊 GitHub Analytics & Metrics
 
 <div align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SE7EN-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8" height="180" alt="GitHub Stats" />
+  <!-- Active High-Speed Mirror for GitHub Stats -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SE7EN-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8" height="180" alt="GitHub Stats" />
   
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=SE7EN-01&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f43f5e&currStreakLabel=38bdf8" height="180" alt="Streak Stats" />
@@ -284,15 +271,11 @@
 <br/>
 
 <div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SE7EN-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SE7EN-01&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+  <!-- Active High-Speed Mirror for Top Languages -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SE7EN-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
+  
+  <!-- Active Most Commit Language Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SE7EN-01&theme=tokyonight" height="165" alt="Commit Languages" />
 </div>
 
 ---
@@ -347,7 +330,6 @@ Whether you want to collaborate on an open-source project, discuss a modern web 
 <br/>
 
 <div align="center">
-  <!-- Waving Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=110&section=footer" width="100%" alt="Footer" />
-  <p><sub>⚡ Designed with passion & precision by <b>Kim Heng (SE7EN)</b> • © 2026 All Rights Reserved ⚡</sub></p>
+  <!-- Self-Hosted Vector Footer Banner -->
+  <img src="./assets/footer.svg" width="100%" alt="Kim Heng - SE7EN Footer Banner" />
 </div>
